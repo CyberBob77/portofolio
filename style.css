@@ -1,0 +1,100 @@
+.header{
+    background-color: white;
+    color:#067173;
+    margin: 0%;
+
+    
+}
+p{
+    display: inline-block;
+    margin-top: 1vw;
+    font-size: larger;
+    font-family: 'Cairo', sans-serif;
+}
+.Same{
+ padding-left: 5vw;
+ float: right;
+ font-size: 3vh;
+ text-decoration: none;
+ color: #067173;
+ font-family: 'Cairo', sans-serif;
+ margin-top: 1vw;
+}
+
+ 
+
+.Same:hover{
+    color: turquoise;
+    
+}
+.alone{
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 0.5vw;
+    font-family: 'Cairo', sans-serif;
+}
+.me{
+    width: 100vw;
+    max-width:100vw ;
+    border-style: none;
+    height: 80vw; 
+    position:absolute;
+    
+    
+}
+.oimage{
+    position:relative;
+    color: white;
+    margin-top: 5vh;
+    font-size: 25px;
+    
+}
+h2{
+    position:relative;
+    color: white;
+    font-size: 25px;
+    font-family: 'Cairo', sans-serif;
+}
+h1{
+    position:relative;
+    color: turquoise;
+    margin-top: 0.5vh;
+    font-size: 50px;
+    font-family: 'Cairo', sans-serif;
+    
+}
+html {
+    scroll-behavior: smooth;
+  }
+.btn{
+    position: relative;
+    color: white;
+    background-color: #067173;
+    border-radius: 1em;
+    font-family: 'Cairo', sans-serif;
+    margin-left:2vw;
+    font-size: 20px;
+    padding: 10px;
+    width: 25vw;
+    margin-top: 2vh;
+}
+.btn:hover{
+    background-color: turquoise;
+    width: 30vw;
+    transition: width:2s ;
+    transition-duration:1s;
+
+}
+.fa{
+    position: relative;
+    text-decoration: none;
+    left:7vw ;
+    padding: 1.5vh;
+    margin-top: 5vh;
+    font-size: 30px;
+    color: turquoise;
+}
+.fa:hover{
+    box-shadow: 0 0.4rem 1.4rem 0.5rem rgba(86, 185, 235, 0.5);
+    transform: translatey(0.4rem);
+}
