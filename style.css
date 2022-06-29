@@ -12,6 +12,7 @@ header{
     z-index:999 ;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
 
 }
 
@@ -22,7 +23,8 @@ header{
     color: #067173;
     align-items: center;
     float:right;
-    margin-left:15em ;
+    padding-right: 2em;
+   
 }
 .alone{
     font-size: 1.8em;
@@ -182,6 +184,8 @@ header{
         justify-content: center;
         align-items: center;
         margin-left: 2.5em;
+        box-sizing: border-box;
+        padding: 0em;
     }
     
         .title{
