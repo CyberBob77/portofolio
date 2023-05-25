@@ -127,8 +127,6 @@ header{
 }
 .projects{
     background-color:#030327;
-    display: flex;
-    flex-direction: column;
     align-items: center;
     width: 100%;
     margin-top: 3em;
@@ -139,6 +137,8 @@ header{
    height: 40vh;
    border-radius: 1em;
    border-color: turquoise;
+   margin-left: 7vw;
+   display:inline;
   
 }
 .p1:hover{
